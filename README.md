@@ -1,0 +1,2 @@
+# AutomacaoBlip
+Testes automatizados
